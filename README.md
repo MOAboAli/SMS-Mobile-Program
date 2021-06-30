@@ -26,3 +26,10 @@ First mobile devices were connected to the computers via cable (a real serial co
 ![image](https://user-images.githubusercontent.com/26040529/123972717-64e87600-d9bb-11eb-9acd-1d0ecfd1349c.png)
 
 The AT communication protocol is a simple terminal protocol. It means that sending SMS by direct using the AT communication protocol consists of typing several text commands in a terminal window, which is obviously not an user-friendly interface. Headwind GSM modem driver is the application implementing this interface and providing a user-friendly GUI for sending messages from the PC.
+
+
+
+More Info ....... [sms22 (1).docx](https://github.com/MOAboAli/SMS-Mobile-Program/files/6741418/sms22.1.docx)
+
+
+
