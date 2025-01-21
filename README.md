@@ -1,6 +1,6 @@
 # SMS-Mobile-Program
 C# SMS Program to send and receive SMS Message.
-Main Feature is to recieve a code in SMS Message (Student ID), and get from Database his/her results, and send them as SMS Message.
+Main Feature is to retrive data from the database through a SMS message.
 
 
 it was created in March 2012.
