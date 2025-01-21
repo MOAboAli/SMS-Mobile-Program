@@ -2,7 +2,7 @@
 Main Feature is to retrive data from the database through a SMS message.
 
 
-it was created in March 2012.
+It was created in March 2012.
 
 Any mobile phone is able to send short messages in the GSM network. However, to use this facility in a personal computer, the mobile phone must be connected with it. There is a standard for serial connection between the modem and the PC, which is also applicable for the GSM device (GSM modem).
 
